@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Quiz App</string>
-    <string name="my_quiz">My Quiz</string>
-    <string name="start_quiz">Start Quiz</string>
-    <string name="highscore_0">HighScore : 0</string>
-</resources>
